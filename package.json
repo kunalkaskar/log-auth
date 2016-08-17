@@ -1,0 +1,30 @@
+{
+  "name": "log-auth",
+  "version": "1.0.0",
+  "description": "Scaffholding for Server Side API of login, registration, Change Password, Forgot Password in Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunalkaskar/log-auth.git"
+  },
+  "keywords": [
+    "login",
+    "register",
+    "forgot",
+    "password"
+  ],
+  "author": "Kunal Kaskar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kunalkaskar/log-auth/issues"
+  },
+  "homepage": "https://github.com/kunalkaskar/log-auth#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.9"
+  }
+}
